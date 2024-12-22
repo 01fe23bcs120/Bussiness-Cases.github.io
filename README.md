@@ -22,12 +22,12 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 - **Time Complexity**:O(Elog(E))
 - **Space Complexity**:O(V)
   
-  ## 3. Hospital Resource Management ##
+## 3. Hospital Resource Management ##
   Hospital resource management involves the efficient allocation and utilization of resources like beds, staff, medical equipment, and facilities to provide effective patient care. Key challenges include handling fluctuating patient demand, optimizing resource allocation, and minimizing delays in critical situations.
 
   In hospital resource management, Sorting Algorithms i.e., Heapsort are suitable for organizing resources or tasks based on priority, availability, or demand. For example, sorting patients based on the severity of their condition ensures critical cases are addressed first.
 
-  ## Key Aspect ##
+## Key Aspect ##
 - Scheduling surgeries and appointments.
 - Allocating beds to patients.
 - Optimizing staff duty rosters.
@@ -35,19 +35,19 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 - Time Complexity:O(nlog(n))
 - Space Complexity:O(n)
 
-  ## 4. Air Quality Monitoring ##
+## 4. Air Quality Monitoring ##
   Air quality monitoring involves measuring the concentration of pollutants in the air, such as carbon dioxide (CO₂), nitrogen dioxide (NO₂), particulate matter (PM2.5/PM10), and ozone (O₃). The goal is to assess air pollution levels, predict trends, and ensure compliance with environmental standards. Challenges include managing data from numerous sensors, analyzing trends, and identifying pollution hotspots.
 
   Trees can be used in air quality monitoring to organize and query data hierarchically. For example, a Binary Search Tree (BST) can store air quality readings indexed by timestamps, enabling efficient insertion, deletion, and range queries (e.g., finding readings within a specific time range).
 
-  ## Key Aspect ##
+## Key Aspect ##
 - Collecting and storing sensor data efficiently.
 - Detecting patterns or anomalies in air quality over time.
 - Mapping pollution levels across regions.
 - Time Complexity:O(log(n))
 - Space Complexity:O(n)
 
-  ## 5. Pedestrian and Bicycle Path Planning ##
+## 5. Pedestrian and Bicycle Path Planning ##
   Pedestrian and bicycle path planning focuses on creating safe, efficient, and accessible pathways for walking and cycling within urban areas. The goal is to design networks of pathways that connect key locations (e.g., parks, schools, transit hubs) while minimizing travel time, ensuring safety, and promoting environmental sustainability. Path planning involves considering various factors, such as terrain, traffic conditions, and the availability of infrastructure.
 
   For pedestrian and bicycle path planning, Graph Algorithms are the most suitable choice. This is because the problem can be modeled as a graph, where:
