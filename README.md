@@ -6,7 +6,7 @@ For Urban Planning and Zoning, the most suitable algorithm is a Graph Algorithm,
 
 ## Key Aspects ##
 1.**Urban Planning**: Focuses on creating livable, sustainable cities by addressing housing, transportation, public spaces, utilities, and infrastructure.
-Incorporates short-term and long-term goals for economic growth, environmental protection, and social equity.
+Incorporates short-term and long-term goals for economic growth, environmental protection, and social equity.  
 2.**Zoning**: A regulatory tool that divides urban areas into zones or districts (e.g., residential, commercial, industrial).
 
 
