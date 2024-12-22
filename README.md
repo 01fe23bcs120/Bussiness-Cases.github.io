@@ -21,13 +21,13 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 - Ensuring redundancy and fault tolerance for reliability.
 - **Time Complexity**:O(Elog(E))
 - **Space Complexity**:O(V)
-  
+
 ## 3. Hospital Resource Management ##
   Hospital resource management involves the efficient allocation and utilization of resources like beds, staff, medical equipment, and facilities to provide effective patient care. Key challenges include handling fluctuating patient demand, optimizing resource allocation, and minimizing delays in critical situations.
 
   In hospital resource management, Sorting Algorithms i.e., Heapsort are suitable for organizing resources or tasks based on priority, availability, or demand. For example, sorting patients based on the severity of their condition ensures critical cases are addressed first.
 
-## Key Aspect ##
+## Key Aspects ##
 - Scheduling surgeries and appointments.
 - Allocating beds to patients.
 - Optimizing staff duty rosters.
@@ -40,7 +40,7 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 
   Trees can be used in air quality monitoring to organize and query data hierarchically. For example, a Binary Search Tree (BST) can store air quality readings indexed by timestamps, enabling efficient insertion, deletion, and range queries (e.g., finding readings within a specific time range).
 
-## Key Aspect ##
+## Key Aspects ##
 - Collecting and storing sensor data efficiently.
 - Detecting patterns or anomalies in air quality over time.
 - Mapping pollution levels across regions.
@@ -55,7 +55,7 @@ Vertices (nodes) represent locations (e.g., intersections, landmarks).
 Edges represent paths between locations (e.g., roads, sidewalks, bicycle lanes).
 Graph algorithms, particularly Shortest Path algorithms like Dijkstra's Algorithm , is ideal for finding the most efficient paths between locations while considering constraints such as traffic, road conditions, or path length.
 
-## Key Aspect ##
+## Key Aspects ##
 - Optimizing routes: Finding the shortest or safest routes between locations.
 - Safety considerations: Avoiding busy roads, intersections, or areas with high traffic.
 - Environmental factors: Ensuring paths are integrated with the surrounding environment and land use.
