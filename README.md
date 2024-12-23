@@ -10,8 +10,6 @@ For Urban Planning and Zoning, the most suitable algorithm is a Graph Algorithm,
 - **Time Complexity**:O(Elog(V))
 - **Space Complexity**:O(V)
 
-  ![Project Screenshot](https://github.com/01fe23bcs120/Bussiness-Cases.github.io/blob/main/Screenshot%202024-12-23%20141809.png)
-
 ## 2. Energy Distribuion Network ##
 Energy distribution networks are critical infrastructures that transport electricity from power generation facilities to end consumers. They include power lines, substations, transformers, and distribution nodes. The main goals of energy distribution networks are to ensure efficient, reliable, and cost-effective delivery of electricity while minimizing losses and meeting fluctuating demand.  
 
