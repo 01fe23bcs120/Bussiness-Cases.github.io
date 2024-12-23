@@ -8,7 +8,9 @@ For Urban Planning and Zoning, the most suitable algorithm is a Graph Algorithm,
 - Incorporates short-term and long-term goals for economic growth, environmental protection, and social equity.  
 -  A regulatory tool that divides urban areas into zones or districts (e.g., residential, commercial, industrial).
 - **Time Complexity**:O(Elog(V))
-- **Space Complexity**:O(V) 
+- **Space Complexity**:O(V)
+
+  ![Project Screenshot]()
 
 ## 2. Energy Distribuion Network ##
 Energy distribution networks are critical infrastructures that transport electricity from power generation facilities to end consumers. They include power lines, substations, transformers, and distribution nodes. The main goals of energy distribution networks are to ensure efficient, reliable, and cost-effective delivery of electricity while minimizing losses and meeting fluctuating demand.  
