@@ -5,8 +5,8 @@ Urban Planning and Zoning is the process of designing and organizing the physica
 For Urban Planning and Zoning, the most suitable algorithm is a Graph Algorithm, such as the Minimum Spanning Tree (MST). MST helps design efficient infrastructure networks (e.g., roads, utilities) by minimizing the total cost of connecting different zones. Here, we are using Prim's algorithm since it is simple and efficient.  
 ## Key Aspects ##
 - Focuses on creating livable, sustainable cities by addressing housing, transportation, public spaces, utilities, and infrastructure.
-Incorporates short-term and long-term goals for economic growth, environmental protection, and social equity.  
-- **Zoning**: A regulatory tool that divides urban areas into zones or districts (e.g., residential, commercial, industrial).
+- Incorporates short-term and long-term goals for economic growth, environmental protection, and social equity.  
+-  A regulatory tool that divides urban areas into zones or districts (e.g., residential, commercial, industrial).
 - **Time Complexity**:O(Elog(V))
 - **Space Complexity**:O(V) 
 
