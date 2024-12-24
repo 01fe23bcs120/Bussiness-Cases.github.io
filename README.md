@@ -11,6 +11,7 @@ For Urban Planning and Zoning, the most suitable algorithm is a Graph Algorithm,
 -  A regulatory tool that divides urban areas into zones or districts (e.g., residential, commercial, industrial).
 - **Time Complexity**:O(Elog(V))
 - **Space Complexity**:O(V)
+- **code**: [Prim]()
 
 ## 2. Energy Distribuion Network ##
 Energy distribution networks are critical infrastructures that transport electricity from power generation facilities to end consumers. They include power lines, substations, transformers, and distribution nodes. The main goals of energy distribution networks are to ensure efficient, reliable, and cost-effective delivery of electricity while minimizing losses and meeting fluctuating demand.  
@@ -23,6 +24,7 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 - Ensuring redundancy and fault tolerance for reliability.
 - **Time Complexity**:O(Elog(E))
 - **Space Complexity**:O(V)
+- **code**: [Kruskal]() 
 
 ## 3. Hospital Resource Management ##
   Hospital resource management involves the efficient allocation and utilization of resources like beds, staff, medical equipment, and facilities to provide effective patient care. Key challenges include handling fluctuating patient demand, optimizing resource allocation, and minimizing delays in critical situations.
@@ -36,6 +38,7 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 - Managing inventory for medical supplies.
 - Time Complexity:O(nlog(n))
 - Space Complexity:O(n)
+- **code**: [HeapSort]()
 
 ## 4. Air Quality Monitoring ##
   Air quality monitoring involves measuring the concentration of pollutants in the air, such as carbon dioxide (CO₂), nitrogen dioxide (NO₂), particulate matter (PM2.5/PM10), and ozone (O₃). The goal is to assess air pollution levels, predict trends, and ensure compliance with environmental standards. Challenges include managing data from numerous sensors, analyzing trends, and identifying pollution hotspots.
@@ -48,6 +51,7 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 - Mapping pollution levels across regions.
 - Time Complexity:O(log(n))
 - Space Complexity:O(n)
+- **code**: [Binary Search Tree]()
 
 ## 5. Pedestrian and Bicycle Path Planning ##
   Pedestrian and bicycle path planning focuses on creating safe, efficient, and accessible pathways for walking and cycling within urban areas. The goal is to design networks of pathways that connect key locations (e.g., parks, schools, transit hubs) while minimizing travel time, ensuring safety, and promoting environmental sustainability. Path planning involves considering various factors, such as terrain, traffic conditions, and the availability of infrastructure.
@@ -64,5 +68,6 @@ Graph algorithms, particularly Shortest Path algorithms like Dijkstra's Algorith
 - Accessibility: Designing paths that accommodate people with disabilities and varying cycling skill levels.
 - Time Complexity:O(Elog(V*E))
 - Space Complexity:O(V)
+- **code**: [ Dijkstra]()
 
 
