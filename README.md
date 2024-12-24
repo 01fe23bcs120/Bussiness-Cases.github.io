@@ -24,7 +24,7 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 - Ensuring redundancy and fault tolerance for reliability.
 - **Time Complexity**:O(Elog(E))
 - **Space Complexity**:O(V)
-- **code**: [Kruskal]() 
+- **code**: [Kruskal](https://github.com/01fe23bcs120/Bussiness-Cases.github.io/blob/main/Energy_Dist.cpp) 
 
 ## 3. Hospital Resource Management ##
   Hospital resource management involves the efficient allocation and utilization of resources like beds, staff, medical equipment, and facilities to provide effective patient care. Key challenges include handling fluctuating patient demand, optimizing resource allocation, and minimizing delays in critical situations.
