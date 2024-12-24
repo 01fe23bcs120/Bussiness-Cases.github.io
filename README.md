@@ -38,7 +38,7 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 - Managing inventory for medical supplies.
 - Time Complexity:O(nlog(n))
 - Space Complexity:O(n)
-- **code**: [HeapSort]()
+- **code**: [HeapSort](https://github.com/01fe23bcs120/Bussiness-Cases.github.io/blob/main/Medical_Resource.cpp)
 
 ## 4. Air Quality Monitoring ##
   Air quality monitoring involves measuring the concentration of pollutants in the air, such as carbon dioxide (CO₂), nitrogen dioxide (NO₂), particulate matter (PM2.5/PM10), and ozone (O₃). The goal is to assess air pollution levels, predict trends, and ensure compliance with environmental standards. Challenges include managing data from numerous sensors, analyzing trends, and identifying pollution hotspots.
