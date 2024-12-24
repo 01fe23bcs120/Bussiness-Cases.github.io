@@ -51,7 +51,7 @@ For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is 
 - Mapping pollution levels across regions.
 - Time Complexity:O(log(n))
 - Space Complexity:O(n)
-- **code**: [Binary Search Tree]()
+- **code**: [Binary Search Tree](https://github.com/01fe23bcs120/Bussiness-Cases.github.io/blob/main/Air_Quality.cpp)
 
 ## 5. Pedestrian and Bicycle Path Planning ##
   Pedestrian and bicycle path planning focuses on creating safe, efficient, and accessible pathways for walking and cycling within urban areas. The goal is to design networks of pathways that connect key locations (e.g., parks, schools, transit hubs) while minimizing travel time, ensuring safety, and promoting environmental sustainability. Path planning involves considering various factors, such as terrain, traffic conditions, and the availability of infrastructure.
