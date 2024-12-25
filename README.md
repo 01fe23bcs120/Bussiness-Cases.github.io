@@ -18,6 +18,8 @@ Energy distribution networks are critical infrastructures that transport electri
 
 For energy distribution networks, Graph Algorithms Kruskal's Algorithm which is highly suitable for designing Minimum Spanning Trees (MSTs). MSTs minimize the total cost of connecting all nodes (e.g., substations, transformers) while maintaining connectivity, making them ideal for planning efficient distribution networks.
 
+![Project Screenshot](assets/Screenshot 2024-12-23 141809.png)
+
 ## Key Aspects ##
 - Optimizing energy flow to minimize losses.  
 - Balancing load across the network.  
