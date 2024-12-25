@@ -63,7 +63,7 @@ Vertices (nodes) represent locations (e.g., intersections, landmarks).
 Edges represent paths between locations (e.g., roads, sidewalks, bicycle lanes).
 Graph algorithms, particularly Shortest Path algorithms like Dijkstra's Algorithm , is ideal for finding the most efficient paths between locations while considering constraints such as traffic, road conditions, or path length.
 
-![Project Screenshot](Screenshot 2024-12-25 171906.png)
+![Project Screenshot](assets/Screenshot 2024-12-25 171906.png)
 
 ## Key Aspects ##
 - Optimizing routes: Finding the shortest or safest routes between locations.
