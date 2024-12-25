@@ -2,7 +2,7 @@
 using namespace std;
 
 int primMST(int nodes, vector<vector<pair<int, int>>> &graph) {
-    priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
+    priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;  //using min heap for finding minimum cost 
     vector<bool> visited(nodes, false);
     int totalCost = 0;
 
@@ -28,7 +28,7 @@ int primMST(int nodes, vector<vector<pair<int, int>>> &graph) {
 
 int main() {
     int nodes = 5;
-    vector<vector<pair<int, int>>> graph(nodes);
+    vector<vector<pair<int, int>>> graph(nodes); //creating an adjacency list
 
     vector<tuple<int, int, int>> inputEdges = {
         {0, 1, 2}, {0, 3, 6}, {1, 2, 3}, {1, 3, 8}, {1, 4, 5}, {2, 4, 7}, {3, 4, 9}
