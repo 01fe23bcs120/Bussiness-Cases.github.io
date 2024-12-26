@@ -74,9 +74,9 @@ Graph algorithms, particularly Shortest Path algorithms like Dijkstra's Algorith
 - **code**: [ Dijkstra](https://github.com/01fe23bcs120/Bussiness-Cases.github.io/blob/main/Bicycle_Path.cpp)
 
 ## 6. Integrated Urban Planning and Sustainable Pedestrian Path Design: Optimizing Zoning and Non-Motorized Transportation Networks ##
- Urban planning involves the efficient allocation of land and resources to create organized, sustainable, and functional urban environments. Zoning is a critical aspect of this process, focusing on the distribution of land for residential, commercial, industrial, and public use. It ensures resource optimization, prevents conflicts between land uses, and fosters economic and social development.
+ Urban planning involves the efficient allocation of land and resources to create organized, sustainable, and functional urban environments. Zoning is a critical aspect of this process, focusing on the distribution of land for residential, commercial, industrial, and public use. It ensures resource optimization, prevents conflicts between land uses, and fosters economic and social development. Hence, we are using **Prim's algorithm**.
 
-Pedestrian and bicycle path planning complements urban planning by prioritizing safe and efficient non-motorized transportation. It addresses the need for sustainable mobility by designing pathways that connect key urban zones while promoting environmental sustainability, public health, and accessibility.
+Pedestrian and bicycle path planning complements urban planning by prioritizing safe and efficient non-motorized transportation. It addresses the need for sustainable mobility by designing pathways that connect key urban zones while promoting environmental sustainability, public health, and accessibility. Hence we are using **Dijkstra's algorithm**.
 
 By integrating these two domains, we can create urban spaces that are not only resource-efficient but also prioritize sustainable transportation, contributing to a holistic and livable urban environment.
 
