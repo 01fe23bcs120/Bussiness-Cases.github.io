@@ -88,6 +88,6 @@ By integrating these two domains, we can create urban spaces that are not only r
 - Sustainability and Accessibility: Promote environmentally friendly transportation modes. Ensure accessibility for all users, including differently-abled individuals.
 - Time Complexity: O(E*logV)
 - Space Compllexity: O(V+E)
-- **code**: [Combined Code for Prim and Dijkstra]()
+- **code**: [Combined Code for Prim and Dijkstra](https://github.com/01fe23bcs120/Bussiness-Cases.github.io/blob/main/inte_urban_path.cpp)
 
 
