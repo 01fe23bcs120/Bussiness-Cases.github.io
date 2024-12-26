@@ -73,4 +73,21 @@ Graph algorithms, particularly Shortest Path algorithms like Dijkstra's Algorith
 - Space Complexity:O(V)
 - **code**: [ Dijkstra](https://github.com/01fe23bcs120/Bussiness-Cases.github.io/blob/main/Bicycle_Path.cpp)
 
+## 6. Integrated Urban Planning and Sustainable Pedestrian Path Design: Optimizing Zoning and Non-Motorized Transportation Networks ##
+ Urban planning involves the efficient allocation of land and resources to create organized, sustainable, and functional urban environments. Zoning is a critical aspect of this process, focusing on the distribution of land for residential, commercial, industrial, and public use. It ensures resource optimization, prevents conflicts between land uses, and fosters economic and social development.
+
+Pedestrian and bicycle path planning complements urban planning by prioritizing safe and efficient non-motorized transportation. It addresses the need for sustainable mobility by designing pathways that connect key urban zones while promoting environmental sustainability, public health, and accessibility.
+
+By integrating these two domains, we can create urban spaces that are not only resource-efficient but also prioritize sustainable transportation, contributing to a holistic and livable urban environment.
+
+## Key Aspects ##
+- Resource Optimization: Allocate zones for residential, commercial, and industrial use while minimizing costs and conflicts. Utilize graph-based algorithms to create optimal connections between zones.
+- Path Planning: Identify the safest and shortest paths for non-motorized traffic. Use pathfinding algorithms to compute routes that consider travel time, distance, and safety metrics.
+- Scalability: Support dynamic updates to the network, such as new zones or pathways. Handle large datasets representing complex urban environments.
+- Cost Efficiency: Minimize the cost of constructing connections between zones. Prioritize affordable and sustainable solutions for pedestrian and cyclist pathways.
+- Sustainability and Accessibility: Promote environmentally friendly transportation modes. Ensure accessibility for all users, including differently-abled individuals.
+- Time Complexity: O(E*logV)
+- Space Compllexity: O(V+E)
+- **code**: [Combined Code for Prim and Dijkstra]()
+
 
